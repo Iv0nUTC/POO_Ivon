@@ -1,0 +1,12 @@
+https://github.com/signup?source=login
+usuario: i.hernandez.r@edu.utc.mx
+pass: Utc_Iv0n
+username: Iv0nUTC
+
+
+TOKEN GITHUB
+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
+
+
+
+comando master: git init
